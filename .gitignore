@@ -1,0 +1,19 @@
+.DS_Store
+.superset/
+
+# 上游安装包与解包 / 分析产物（上游 all rights reserved，不入库）
+photoshow.zip
+photoshow.crx
+unpacked/
+rea-evidence.json
+
+# 构建脚本从上游包生成的内容
+safari/WebExtension/
+safari/Project/
+
+# 构建产物
+safari/build/
+safari/dist/
+**/*.log
+**/xcuserdata/
+**/*.xcuserstate

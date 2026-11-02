@@ -1,0 +1,5 @@
+build/
+dist/
+*.log
+**/xcuserdata/
+**/*.xcuserstate

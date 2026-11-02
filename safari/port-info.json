@@ -1,0 +1,24 @@
+{
+  "source_version": "4.93.2",
+  "safari_version": "4.93.2.13",
+  "source_sha256": "7df3eca3df237259007b424b8470ce0a4bd28aed55183283ebadfa978debd6a3",
+  "minimum_safari": "26.0",
+  "omitted_response_header_rules": [
+    {
+      "file": "tolstoycomments.com.json",
+      "id": 1
+    },
+    {
+      "file": "_common-settings.json",
+      "id": 1
+    },
+    {
+      "file": "_common-settings.json",
+      "id": 2
+    },
+    {
+      "file": "_common-settings.json",
+      "id": 3
+    }
+  ]
+}
